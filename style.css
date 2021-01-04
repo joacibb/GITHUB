@@ -12,7 +12,16 @@
     height: 10vh;
     background: #5b78c7;
   }
-  
+  .nav-links-notas li a{
+    background-color:#5b78c7;
+    color: floralwhite;
+  }
+ .nav-links-notas{
+   font-size: 10px;
+   text-decoration: none;
+   list-style: none;
+   width: 500px;
+ }
   .nav-links {
     display: flex;
     list-style: none;
